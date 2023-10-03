@@ -1,25 +1,24 @@
-"cod_id";"fec_fecha_creacion";"txt_descripcion";"txt_identificacion";"num_tipo_identificacion";"txt_nombre";"num_numero_dias_semana"
-10;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-11;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-12;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-13;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-14;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-15;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-16;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-17;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-18;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-19;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-20;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-21;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-22;2019-08-03 17:20:17.717;An Exampleaaa;Y6713575G;1;TheExample;7
-23;2019-08-03 17:20:17.717;An Exampleaaa;Y6713575G;1;TheExample;7
-24;2019-08-03 17:20:17.717;An Exampleaaa;Y6713575G;1;TheExample;7
-25;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-26;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-27;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-28;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-29;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-
-30;2019-08-03 17:20:17.717;An Example;Y6713575G;1;TheExample;7
-900;2022-06-20 12:24:07.817;description_test;identification_test;0;luis-ito;5
-9000;2022-06-20 12:24:07.817;description_test;identification_test;0;luis-ito;5
+"cod_id","fec_fecha_creacion","txt_descripcion","txt_identificacion","num_tipo_identificacion","txt_nombre","num_numero_dias_semana"
+10,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+11,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+12,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+13,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+14,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+15,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+16,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+17,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+18,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+19,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+20,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+21,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+22,2019-08-03 17:20:17.717,An Exampleaaa,Y6713575G,1,TheExample,7
+23,2019-08-03 17:20:17.717,An Exampleaaa,Y6713575G,1,TheExample,7
+24,2019-08-03 17:20:17.717,An Exampleaaa,Y6713575G,1,TheExample,7
+25,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+26,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+27,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+28,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+29,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+30,2019-08-03 17:20:17.717,An Example,Y6713575G,1,TheExample,7
+900,2022-06-20 12:24:07.817,description_test,identification_test,0,luis-ito,5
+9000,2022-06-20 12:24:07.817,description_test,identification_test,0,luis-ito,5
